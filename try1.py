@@ -9,6 +9,7 @@ class A_c():
     pass
 
 def C():
+    print("c")
     pass
 
 def D():
