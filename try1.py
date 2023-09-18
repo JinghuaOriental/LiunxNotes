@@ -6,3 +6,6 @@ def B():
 
 class A_c():
     pass
+
+def C():
+    pass
